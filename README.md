@@ -19,7 +19,7 @@ sudo apt-get install git
 Clone the repository to a directory of your choosing:
 
 ```
-git clone https://github.com/RealTract/DRKChain.git
+git clone https://github.com/DRKtechnology/DRKChain.git
 ```
 
 Install latest distribution of [Go](https://golang.org/) if you don't have it already. You can refer to below document guide to install Go on Ubuntu 18.04
